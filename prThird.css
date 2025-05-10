@@ -1,0 +1,229 @@
+.frst{
+    height: 700px;
+    background-image:url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png); ;
+}
+.nv nav{
+    display: flex;
+  justify-content: space-around;
+  color:white ;
+  
+}
+.nv .right{
+    display: flex;
+    margin-left: 800px;
+}
+.right li{
+    font-size: 22px;
+    
+}
+nav li{
+    display: flex;
+    margin-inline: 25px;
+    margin-top:22px ;
+}
+.nv .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 600px;
+}
+.nv .logo img{
+    
+    /* position: absolute; */
+    width: 280px;
+    transform: none;
+    object-fit: contain;
+    border: 0px;   
+    
+}
+
+h1{
+    color:white ;
+    font-size: 40px;
+    margin: 20px;
+    
+}
+.sec-2 h5{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.sec-2 p{
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+    margin-bottom: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+   color: rgb(68, 66, 66);
+}
+.sect3 p{
+    font-size: 20px;
+   margin-top: 5px;
+}
+.frstgrid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.secondgrid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.thrdgrid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.rytangle{
+  
+    font-size: 12px;
+    color: rgb(60, 58, 58);
+    
+}
+.downangle{
+    margin-top: 20px;
+    align-items: center;
+    font-size: 15px;
+    
+}
+.localities-card p{
+color: rgb(49, 48, 48);
+font-size: 23px;
+}
+.locality-list{
+   
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    padding: 20px 15px;
+    height: 34px;
+    /* max-width: 350px; */
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px grey;
+    margin-inline: 30px;
+    margin-bottom: 17px;
+   
+}
+.loacality-card{
+    margin: 20px;
+    display: flex;
+   
+    justify-content: center;
+    height: 100%;
+}
+ /* h3{
+    font-size: 20px;
+   font-weight: 200px;
+    margin-bottom: 80px;
+    text-align: center;
+    align-items: center;
+   color: rgb(62, 60, 60);
+    
+}
+.rytangle{
+   
+   
+    font-size: 15px;
+    color: rgb(15, 15, 15);
+}
+.downangle{
+    margin-top: 20px;
+    align-items: center;
+    font-size: 15px;   
+} */
+ #see{
+    align-items: center;
+    margin-left: 120px;
+ }
+/*  */
+.footer{
+    height: 600px;
+    width: 100%;
+    background-color:rgb(243, 245, 240);
+    margin-top: 40px;
+}
+.pre-footer{
+    
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+}
+.part{
+    /* margin-top: 100px; */
+    margin-bottom: 40px;
+}
+#mainhead {
+    font-size: 22px;
+}
+.head-part p{
+    color:rgb(76, 74, 74);
+    font-size: 18px;
+}
+.tag img{
+    margin-left: 50px;
+  height: 40px;
+  width: 190px;
+  margin-top: 100px;
+}
+.anu{
+    display: flex;
+}
+.part img{
+    height: 50px;
+    width: 100px;
+  flex-direction: column;
+}
+.tg{
+    height: 27px;
+    width: 27px;
+}
+.tag-1{
+    display: flex;
+   
+}
+.tag{
+    display: flex;
+    justify-content: space-between;
+}
+.tag-1 p{
+    border: 2px solid black;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+    margin-right: 30pxpx;
+   
+ }
+ #sp{
+     margin-top: 100px;
+     border-radius: 10px;
+     
+ }
+ .agdown{
+     font-size: 15px;
+ }
+/*  */
+.lastt{
+    height: 50px;
+    width: 100%;
+    
+}
+.lastt p{
+font-size: 18px;
+margin: 15px;
+color: rgb(73, 71, 71);
+}
+.top-content p{
+    color: rgb(39, 38, 38);
+}
